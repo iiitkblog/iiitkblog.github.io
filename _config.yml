@@ -3,6 +3,8 @@
 # Name of website
 title: IIIT Kalyani
 background-image: imgs/hero-bg.jpg
+bigimg: 
+  - "/imgs/hero-bg.jpg" : "hacktober"
 # Short description of your site
 description: Gymkana
 
