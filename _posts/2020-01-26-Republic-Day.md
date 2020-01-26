@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: 71st Republic Day Celebrations at IIIT Kalyani
 image: /img/flag.jpeg
 ---
 

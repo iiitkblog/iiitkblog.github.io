@@ -20,8 +20,8 @@ description: Gymkana
 
 # List of links in the navigation bar
 navbar-links:
-  Gallery: "http://iiitkblog.github.io/Gallery/"
-  Clubs: "http://iiitkblog.github.io/Clubs/"
+  Gallery: #"http://iiitkblog.github.io/Gallery/"
+  Clubs: #"http://iiitkblog.github.io/Clubs/"
   About: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,9 +67,9 @@ author:
 social-network-links:
   rss: true
   email: "iiitkalyani.blog@gmail.com"
-  facebook: 
+  #facebook: 
   github: iiitkblog
-  twitter: 
+  #twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
