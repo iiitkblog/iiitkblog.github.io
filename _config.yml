@@ -2,7 +2,7 @@ title:              IIIT Kalyani
 email:              iiitkalyani.blog@gmail.com
 description:        IIITK Gymkana
 author:             IIITK
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+#baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://iiitkblog.github.io"
 
 # Social Profiles
